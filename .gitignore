@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+.env
+
+# Local instruction file, not part of the project
+STOKU_SETUP.md
