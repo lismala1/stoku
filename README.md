@@ -41,6 +41,8 @@ src/commands/StockCommand.js, ReceiveDeliveryCommand.js,
 ShipOrderCommand.js, MovementHistory.js                Mal
 docs/proposal.md                                       Lis
 docs/uml/class-diagram.md                              Jetik
+docs/uml/seq-receive-delivery.md                       Lis
+docs/uml/seq-pack-pallet.md                            Lis
 docs/uml/seq-ship-order.md                             Eris
 docs/uml/seq-undo.md                                   Mal
 docs/risks.md                                          Eris + Mal
